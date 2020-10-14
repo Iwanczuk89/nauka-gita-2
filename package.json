@@ -1,0 +1,24 @@
+{
+  "name": "nauka-gita",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.12"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iwanczuk89/nauka-gita.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Iwanczuk89/nauka-gita/issues"
+  },
+  "homepage": "https://github.com/Iwanczuk89/nauka-gita#readme",
+  "description": ""
+}

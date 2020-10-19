@@ -1,4 +1,4 @@
 "scripts": {
     "test:html": "html-validate *.html",
-    "build:autoprefixer": "autoprefixer-cli -o main.prefixed.css"
+    "build:autoprefixer": "autoprefixer-cli -o /c/Kodilla/nauka-gita-2.prefixed.css main.css"
 }

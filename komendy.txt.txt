@@ -1,4 +1,4 @@
 "scripts": {
     "test:html": "html-validate *.html",
-    "build:autoprefixer": "autoprefixer-cli css/style.css"
+    "build:autoprefixer": "autoprefixer-cli -o main.prefixed.css"
 }

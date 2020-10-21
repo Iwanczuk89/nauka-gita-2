@@ -1,4 +1,0 @@
-"scripts": {
-    "test:html": "html-validate *.html",
-    "build:autoprefixer": "autoprefixer-cli -o style.prefixed.css nauka-gita-2.css.style.css 
-}
